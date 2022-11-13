@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '酷米窝',
-  domain: '311322.xyz',
-  author: '酷米',
+  name: '小羊随想',
+  domain: 'xiaoyang.live',
+  author: 'koomi',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'koomi的个人博客',
 
   // social usernames (optional)
   twitter: 'koomi',
-  github: 'koomi',
-  linkedin: 'koomi',
+  // github: 'koomi',
+  // linkedin: 'koomi',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
